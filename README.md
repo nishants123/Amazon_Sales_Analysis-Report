@@ -12,6 +12,8 @@ Delivered actionable insights and recommendations to optimize inventory, improve
 
 Used Technologies:
 
-Excel
+•  Excel
 
-Power BI
+•  Power BI
+
+•  PowerPoint Presentation
